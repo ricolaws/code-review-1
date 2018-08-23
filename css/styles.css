@@ -9,11 +9,34 @@ body {
 .flip img {
   opacity: 1;
   transition: 4s;
-  transition-delay: 1.4s;
+  transition-delay: 1s;
   /* background-image: ; */
 }
 
 .flip img:hover {
   opacity: 0;
-  transition: .4s;
+  transition: .2s;
+}
+
+.row4 p {
+  text-align: right;
+}
+
+.row4 h2 {
+  text-align: center;
+}
+
+.row5 .col-md-9{
+  background-color: blue;
+}
+
+.badge {
+  background-color: blue;
+  color: yellow;
+}
+
+.row6 .col-xs-1{
+  background-color: blue;
+  border: solid white 4px;
+  height: 48px;
 }
