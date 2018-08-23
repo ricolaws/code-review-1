@@ -1,0 +1,19 @@
+p {
+  text-align: center;
+}
+
+body {
+  padding: 4px;
+}
+
+.flip img {
+  opacity: 1;
+  transition: 4s;
+  transition-delay: 1.4s;
+  /* background-image: ; */
+}
+
+.flip img:hover {
+  opacity: 0;
+  transition: .4s;
+}
