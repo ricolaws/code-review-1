@@ -4,6 +4,7 @@ p {
 
 body {
   padding: 4px;
+  padding-bottom: 70px;
 }
 
 .flip img {
@@ -24,6 +25,10 @@ body {
 
 .row4 h2 {
   text-align: center;
+  font-family: 'Forum', cursive;
+}
+.jumbotron {
+  font-family: "Forum", cursive;
 }
 
 .row5 .col-md-9{
@@ -35,8 +40,33 @@ body {
   color: yellow;
 }
 
+.badge strong {
+  /* font-family: "forum", cursive; */
+  font-size: 20px;
+  font-weight: normal;
+}
+
 .row6 .col-xs-1{
   background-color: blue;
   border: solid white 4px;
   height: 48px;
+}
+
+.col-sm-5 img {
+  max-width: 320px;
+  padding: 4px;
+  border: dashed 2px blue;
+  border-radius: 160px;
+  margin-top: 160px;
+  margin-left: 80px;
+}
+
+@media only screen and (max-width: 800px) {
+  .col-sm-5 img {
+    padding: 4px;
+    border: dashed 2px blue;
+    border-radius: 160px;
+    margin-top: 2px;
+    margin-left: 180px;
+  }
 }
