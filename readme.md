@@ -1,4 +1,4 @@
-# [Hi, it's me.] (https://github.com/ricolaws/code-review-1/tree/gh-pages)
+# [Hi, it's me.] (https://ricolaws.github.io/code-review-1/)
 
 #### A website about myself
 
