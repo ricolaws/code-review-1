@@ -14,7 +14,7 @@ This is a website made to demonstrate some web design techniques, submitted as m
 * Clone the repository
 * Copy the URL for the clone
 * Open Terminal
-* Change the working directory to the cloned directory to be made
+* Change the working directory to the location where you want the clone to be made
 * Type "git clone" then paste in the URL for the clone and press enter
 * Open the index.html file in your browser
 
@@ -25,6 +25,7 @@ Alternatively, just click the link at the top of this page to be directed to the
 * html
 * CSS
 * bootstrap
+* Photoshop
 
 ## Contact
 
